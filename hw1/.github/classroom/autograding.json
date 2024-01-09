@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "1",
+      "setup": "",
+      "run": "make clean; sudo -H python sample_judge.py -t 1_1 1_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    },
+    {
+      "name": "2",
+      "setup": "",
+      "run": "make clean; sudo -H python sample_judge.py -t 2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    },
+    {
+      "name": "3",
+      "setup": "",
+      "run": "make clean; sudo -H python sample_judge.py -t 3",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    },
+    {
+      "name": "4",
+      "setup": "",
+      "run": "make clean; sudo -H python sample_judge.py -t 4",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "5",
+      "setup": "",
+      "run": "make clean; sudo -H python sample_judge.py -t 5_1 5_2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
